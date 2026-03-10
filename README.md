@@ -35,5 +35,5 @@ How should ticket prices adjust under varying demand sensitivity and team perfor
 * Full revenue mix (tickets + concessions + premium) must be modeled together
 
 ## Project Files
-📊 Dashboard PDF: [Link Text](Revenue_Optimization_Simulation.pdf)
+📊 Dashboard PDF: [Revenue Optimization Simulation](Revenue_Optimization_Simulation.pdf)
   
