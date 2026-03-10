@@ -33,4 +33,7 @@ How should ticket prices adjust under varying demand sensitivity and team perfor
 * In weaker seasons, price increases amplify revenue downside risk
 
 * Full revenue mix (tickets + concessions + premium) must be modeled together
+
+## Project Files
+📊 Dashboard PDF: Revenue_Optimization_Simulation.pdf
   
